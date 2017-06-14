@@ -1,0 +1,90 @@
+{
+    "language": "日本語",
+    "section_titles": {
+        "general": "一般設定",
+        "video": "動画設定",
+        "about": "情報と便利なリンク",
+        "settings": "Iridium 設定"
+    },
+    "sub_section_titles": {
+        "layout": "レイアウト",
+        "thumbnails": "サムネイル",
+        "player": "プレイヤー",
+        "channel": "チャンネル",
+        "general": "一般",
+        "language": "言語",
+        "settings": "設定"
+    },
+    "iridium_api": {
+        "settings_button": "Iridium 設定",
+        "feature_link": "Find out what this does"
+    },
+    "square_avatars": {
+        "label": "ユーザーアバターを四角にする"
+    },
+    "thumbnail_preview": {
+        "label": "サムネイルにマウスを載せてプレビュー"
+    },
+    "thumbnail_preview_mute": {
+        "label": "プレビュー中にシフトキーで音声のオン/オフ"
+    },
+    "channel_video_count": {
+        "label": "Display uploaded videos number"
+    },
+    "channel_video_time": {
+        "label": "Display how long the video was uploaded"
+    },
+    "player_quality": {
+        "label": "Default video quality:"
+    },
+    "player_auto_play": {
+        "label": "Play videos automatically"
+    },
+    "channel_trailer_auto_play": {
+        "label": "Play channel trailers automatically"
+    },
+    "player_annotations": {
+        "label": "Allow annotations on videos"
+    },
+    "player_ads": {
+        "label": "Allow ads on videos"
+    },
+    "subscribed_channel_player_ads": {
+        "label": "Allow ads only on videos of subscribed channels"
+    },
+    "player_hfr": {
+        "label": "Allow HFR (60fps) streams"
+    },
+    "player_always_active": {
+        "label": "Player shortcuts always active"
+    },
+    "player_volume_wheel": {
+        "label": "Change volume using the mouse wheel"
+    },
+    "player_always_visible": {
+        "label": "Keep the player always visible while scrolling"
+    },
+    "iridium_dark_mode": {
+        "label": "Use dark theme"
+    },
+    "iridium_user_settings": {
+        "button_save": "Save",
+        "button_close": "Close",
+        "button_export": "Export",
+        "button_import": "Import",
+        "button_reset": "Reset",
+        "placeholder": "Paste your new settings here",
+        "confirm_reset": "You are about to reset your settings. It is advised to backup your current settings before continuing.\n\nDo you wish to contiue?\n\n",
+        "reset_success": "Settings have been reset.\n\nChanges will be applied after a page refresh.\n\n",
+        "confirm_import": "You are about to override your current settings. It is advised to backup your current settings before continuing.\n\nDo you wish to contiue?\n\n",
+        "import_success": "Your settings have been imported with success.\n\nChanges will be applied after a page refresh.\n\n",
+        "import_error": "Your settings could not be imported because they appear to be invalid.\n\n"
+    },
+    "iridium_language": {
+        "button_save": "Save",
+        "button_close": "Close",
+        "confirm_save": "You are about to replace your extension language settings.\n\nDo you wish to continue?\n\n",
+        "save_success": "New language saved successfully.\n\nChanges will be applied after a page refresh.\n\n",
+        "save_error": "The new language could not be saved because it appears to be invalid.\n\n"
+    }
+}
